@@ -1,8 +1,9 @@
-# 👋 Hello, I'm Ajit Kumar Samal!  
+![Screenshot 2025-03-21 143105](https://github.com/user-attachments/assets/89bcff97-f183-4ec1-88ad-c99b58b967e4)
+
+# 👋 Hello, I'm Akash Kumar Sahu!  
 ### 📊 Data Analyst | Excel | SQL | Power BI | Python  
 🚀 Turning raw data into meaningful insights!  
-
-![Analytics](https://github.com/AkashKumarSahu/banner.png)  
+  
 
 ## 🌟 About Me  
 - 🎓 **B.Com (Hons) Graduate** with a passion for data-driven decision-making.  
@@ -14,7 +15,7 @@
 📌 **Data Analysis**: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 📌 **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 📌 **Database Management**: MySQL, PostgreSQL  
-📌 **Other Tools**: Git, Jupyter Notebook, VS Code  
+ 
 
 ## 🚀 Projects  
 💡 **[Employee Attrition Analysis](#)** - Identified key factors influencing employee retention using Power BI.  
@@ -30,5 +31,4 @@
 
 🌟 **"Data is the new oil, and insights are the fuel that drives decisions!"**  
 🔥 Open to collaborations & opportunities in **Data Analytics & Financial Analysis**!  
-
 
