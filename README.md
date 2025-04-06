@@ -4,7 +4,7 @@
 
     - 🎓 B.Com (Hons) Graduate with a passion for data-driven decision-making.
       
-    - 🛠️ Skilled in Excel, SQL, Power BI, and Python for Data Analysis.
+    - 🛠️ Skilled in Excel, SQL, ETL and Power BI for Data Analysis.
       
     - 📊 Love solving complex problems through data visualization & storytelling.
       
