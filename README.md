@@ -10,13 +10,15 @@
     
     🔍 Interested in Data Analysis, Business Intelligence, and Data Visualization to support strategic decision-making. 
 
-## 🔧 Tech Stack  
+## 🔧 Tech Stack
 
-    📌 Data Analysis : Excel, SQL, ETL(Extract Transformation Load)
+    📌 Data Analysis: Excel (Pivot Tables, VLOOKUP, INDEX-MATCH, Power Query), SQL (Joins, Subqueries, CTEs, Query Optimization), Python (Pandas, NumPy, Matplotlib)
     
-    📌 Data Visualization : Power BI, Excel Charts
+    📌 Data Visualization: Power BI (DAX, KPI Dashboards, Drill-down Reports), Excel Charts & Dashboards
     
-    📌 Database Management : MySQL, PostgreSQL  
+    📌 Database Management: MySQL, PostgreSQL, RDBMS, ETL (Extract, Transform, Load)
+    
+    📌 Version Control & Tools: GitHub, Jupyter Notebook
  
 ## 🚀 Projects  
 
