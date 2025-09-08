@@ -2,13 +2,13 @@
 
 ## 🌟 About Me  
 
-🎓 B.Com Graduate with a strong foundation in business and a passion for data-driven decision-making.
-
-🛠️ Skilled in Excel (Power Query, Pivot Tables), SQL (joins, subqueries, CTEs), ETL workflows, Python (Pandas, NumPy, Matplotlib, Seaborn), and Power BI (DAX, KPI dashboards).
-
-📊 Experienced in EDA, churn analysis, sales analysis, and KPI/dashboard creation to deliver actionable insights.
-
-🔍 Interested in Data Analysis, Business Intelligence, and Data Visualization to support strategic decision-making. 
+    🎓 B.Com Graduate with a strong foundation in business and a passion for data-driven decision-making.
+    
+    🛠️ Skilled in Excel (Power Query, Pivot Tables), SQL (joins, subqueries, CTEs), ETL workflows, Python (Pandas, NumPy, Matplotlib, Seaborn), and Power BI (DAX, KPI dashboards).
+    
+    📊 Experienced in EDA, churn analysis, sales analysis, and KPI/dashboard creation to deliver actionable insights.
+    
+    🔍 Interested in Data Analysis, Business Intelligence, and Data Visualization to support strategic decision-making. 
 
 ## 🔧 Tech Stack  
 
