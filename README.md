@@ -20,11 +20,18 @@
     
     📌 Version Control & Tools: GitHub, Jupyter Notebook
  
-## 🚀 Projects  
+## 🚀 Projects
 
-    💡 [Employee Attrition Analysis] - Identified key factors influencing employee retention using Power BI.  
+    💡 Tech Layoff Analysis – Analyzed global tech layoffs using Python, SQL & Power BI; built an interactive dashboard with DAX measures to identify peak layoff years, trends by company, and funding stage.
     
-    📊 [Social Media Analysis] - Built an interactive sales dashboard with Excel & Power BI.  
+    📊 Telecom Customer Churn Analysis – Conducted EDA & churn modeling using Python & MySQL; identified churn drivers (contract type, tech support) and created KPI dashboards in Power BI to monitor customer
+        retention.
+    
+    📈 Superstore Sales Analysis – Developed an interactive dashboard in Excel & Power BI; compared Q3 vs Q4 sales by segment and category, uncovering 40% sales growth and 38% profit increase in Q4.
+    
+    👥 Employee Attrition Analysis – Identified key factors influencing employee retention using Power BI; provided insights to HR for reducing attrition rates.
+    
+    📊 Social Media Analysis – Built an interactive sales dashboard using Excel & Power BI to track campaign performance and engagement metrics.
 
 ## 📫 Let's Connect  
 
