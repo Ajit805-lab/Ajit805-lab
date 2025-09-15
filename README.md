@@ -60,7 +60,7 @@ I aim to leverage my **analytical and technical skills** to deliver meaningful i
   <a href="https://www.linkedin.com/in/ajitkumarsamal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="ajitkumarofficial79@gmail.com">
+  <a href="mailto:ajitkumarofficial79@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Ajit805-lab">
