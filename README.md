@@ -27,14 +27,23 @@
 
 ## 📂 Projects
 
-* 📊 **[Cricket Match Dashboard](your_project_link)**
-  Interactive dashboard for live/recent match summaries using **API + Streamlit + Python visualization**.
+* 📊 **[Tech Layoff Analysis](https://github.com/Ajit805-lab/Tech_Layoffs)**
+  This project provides a detailed analysis of global company layoffs using a comprehensive dataset containing 
+  company-wise information such as location, industry, funding stage, and layoffs over time.
 
-* 📈 **[Sales Dashboard](your_project_link)**
-  End-to-end ETL and visualization of sales dataset. Key insights on **revenue trends, top products, and regions**.
+* 💼 **[Employee Attrition](https://github.com/Ajit805-lab/Employee-Attrition-Analysis)**
+  Employee attrition refers to the gradual reduction of a workforce due to employees leaving an organization over time. 
+  It can occur due to voluntary resignations, retirements, layoffs, or involuntary terminations. This project analyses the 
+  key factors of employee attrition such as salary, job-statisfaction, enviorment of company etc.
 
- 
-
+* 🔄 **[Customer Churn Analyis](https://github.com/Ajit805-lab/Customer-Churn-Analysis)**
+  This project aims to analyze customer churn in a telecom company using real-world data. The goal is to identify key patterns, visualize trends, 
+  and provide actionable insights to reduce churn and improve customer retention.
+  
+* 📈 **[Super Store Sales Analysis](https://github.com/Ajit805-lab/Superstore_Sale_Analysis)**
+  Superstore_Sale_Analysis is an interactive Power Bi dashboard built using a retail dataset to analyze the sales and 
+  profit trends across different time periods, region, categories. The project provides  key insights into business performance 
+  and highlights growth opportunities.
 
 ---
 
