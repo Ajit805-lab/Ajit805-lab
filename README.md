@@ -40,9 +40,9 @@
 
 ## 📜 Certifications
 
-* 🎓 [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
-* 📊 [Tata Data Visualization: Empowering Business with Effective Insights – Forage](https://www.theforage.com/virtual-experience-programs/tata-consultancy-services/data-visualization)
-* 📊 [Accenture Data Analytics & Visualization Virtual Experience – Forage](https://www.theforage.com/virtual-experience-programs/accenture/data-analytics-virtual-experience)
+* 🎓 [Google Data Analytics Professional Certificate – Coursera](https://www.linkedin.com/in/ajitkumarsamal/details/certifications/)
+* 📊 [Tata Data Visualization: Empowering Business with Effective Insights – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_nqHknsXtjFHDhC2gh_1743230338412_completion_certificate.pdf)
+* 📊 [Accenture Data Analytics & Visualization Virtual Experience – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_nqHknsXtjFHDhC2gh_1743061303124_completion_certificate.pdf)
 
 ---
 
