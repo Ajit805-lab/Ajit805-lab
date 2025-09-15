@@ -57,7 +57,7 @@ I aim to leverage my **analytical and technical skills** to deliver meaningful i
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/ajitkumarsamal">
+  <a href="[www.linkedin.com/in/ajitkumarsamal](https://www.linkedin.com/in/ajitkumarsamal/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="ajitkumarofficial79@gmail.com">
